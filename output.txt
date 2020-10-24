@@ -1,0 +1,9 @@
+Customer Number is: 514284 and the interest paid is: 1599711321
+Customer Number is: 658951 and the interest paid is: 29915978
+Customer Number is: 48596 and the interest paid is: 420082
+Customer Number is: 534900 and the interest paid is: 137844
+Customer Number is: 48483 and the interest paid is: 0
+1's data is invalid
+2's data is invalid
+3's data is invalid
+4's data is invalid

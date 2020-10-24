@@ -1,0 +1,9 @@
+1 - Customer Number : 514284 Customer Type : LongTerm, Paid Interest : 1599711321.000000
+2 - Customer Number : 658951 Customer Type : LongTerm, Paid Interest : 29915978.000000
+3 - Customer Number : 48596 Customer Type : ShortTerm, Paid Interest : 420082.000000
+4 - Customer Number : 534900 Customer Type : ShortTerm, Paid Interest : 137844.000000
+5 - Customer Number : 1 Is invalid
+6 - Customer Number : 2 Is invalid
+7 - Customer Number : 48483 Customer Type : Qarz, Paid Interest : 0.000000
+8 - Customer Number : 3 Is invalid
+9 - Customer Number : 4 Is invalid
